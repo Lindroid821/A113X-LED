@@ -1,0 +1,4 @@
+config BR2_PACKAGE_NST_LED_LIGHT
+    bool"nst led light"
+    help
+      nst led light so test to show
